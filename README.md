@@ -35,7 +35,7 @@ The dataset used in this project contains anonymized transaction data, including
 ## Models Used
 
 The following machine learning models are implemented and compared:
-- Logistic Regression
+- Logistic Regression(I USE THIS ALOGRITHM)
 - Decision Tree
 - Random Forest
 - XGBoost
